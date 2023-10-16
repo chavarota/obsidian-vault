@@ -1,0 +1,1 @@
+Also called face value. The par value of a bond is the price that the issuer pays at time of maturity.

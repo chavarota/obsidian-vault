@@ -1,0 +1,3 @@
+Municipal bonds are issued by state and local governments. They are similar to [[Treasury Notes and Bonds|treasury]] and corporate bonds except that their interest income is exempt from federal income taxation. The interest income is also usually exempt from state and local taxation in the issuing state.
+
+An investor choosing between taxable and tax-exempt bonds must compare after-tax returns on each bond ([[Equivalent Taxable Yield]]). 

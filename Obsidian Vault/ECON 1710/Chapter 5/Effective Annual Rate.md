@@ -1,0 +1,5 @@
+We can define the return that a security provides over its holding period as:
+$$\text{Holding period return} = r(T)=\frac{\text{Price increase} + \text{Income}}{P(T)}$$
+Note that this equation does not factor the length of the holding period. In order to be able to compare securities that might be held for different amounts of time (i.e short-term and long-term bonds), We should re-express total return as a rate of return over a common period. This is typically expressed as the **effective annual rate**. Think of the EAR as the annual rate of return that would compound to the same value as the actual investment:
+$$(1+EAR)^{\text{\# of compounding periods}}=\text{Holding period return}$$
+Effective annual rates explicitly account for compound interest. In contrast, rates on short-term investments are in practice annualized using simple interest that ignores compounding. In that case, you would use the [[Annual Percentage Rate]] instead.

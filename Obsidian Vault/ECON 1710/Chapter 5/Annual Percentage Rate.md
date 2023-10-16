@@ -1,0 +1,3 @@
+The annual percentage rate (of return) is found by multiplying the underlying rate by the number of periods in a year. (i.e. the APR of a 5% monthly interest rate is 5 $\times$ 12=60%). This is not representative of debt or investment returns due to the compounding effect. To convert to [[Effective Annual Rate]], this is the calculation:
+$$1 + EAR =\left(1 + \frac{APR}{n} \right)^n$$
+The more often the compounding periods, the more EAR and APR diverge.

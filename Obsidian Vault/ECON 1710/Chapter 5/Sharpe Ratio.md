@@ -1,0 +1,2 @@
+The importance of the trade-off between reward (the [[Risk Premium|risk premium]]) and the risk (as measured by the [[Variance|standard deviation]] of the portfolio) suggests that we measure the attraction of a portfolio by the ratio of its risk premium to the standard deviation of its excess returns. This is called the Sharpe ratio:
+$$\text{Sharpe ratio} = \frac{\text{Risk premium}}{\sigma}=\frac{E(r)-r_f}{\sigma}$$
